@@ -61,7 +61,7 @@ Train the YOLOv5 model using the following code:
 ```python
 from ultralytics import YOLO
 
-model = YOLO('YOLOv5n.pt')
+model = YOLO('yolov5nu.pt')
 
 results = model.train(
     data='/content/VehiclesDetectionDataset/valid/dataset.yaml',
