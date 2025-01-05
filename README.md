@@ -28,10 +28,10 @@ VehiclesDetectionDataset/
    valid/
       images/
       labels/
-      dataset.yaml
    test/
       images/
       labels/
+  dataset.yaml
 ```
 
 ### Dataset YAML File
